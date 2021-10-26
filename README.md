@@ -7,7 +7,7 @@ Exploring Data Visualization in Altair: An Interesting Alternative to Seaborn
 **1) What is this repository about?**
 
 In this repository, we are going to build various sets of visualizations using Seaborn and Altair libraries in Python and compare them.
-The jupyter notebook (.ipynb) provides the code and this read contains all the relevant information about this tutorial.
+The jupyter notebook (.ipynb) provides the code and this readme contains all the relevant information about this tutorial.
 
 **2) What is Altair?**
 
